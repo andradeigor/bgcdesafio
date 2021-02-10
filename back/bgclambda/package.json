@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "nodemailer": "^6.4.17",
+    "nodemailer-smtp-transport": "^2.7.4"
+  }
+}

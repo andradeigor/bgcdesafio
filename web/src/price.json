@@ -1,0 +1,62 @@
+{
+  "msteeve": {
+      "id": "1",
+      "title": "Minion Steve",
+      "price": 150
+        },
+    "mpresidiario": {
+      "id": "2",
+      "title": "Minion Presidiário",
+      "price": 250
+    },
+   "mbob": {
+      "id": "3",
+      "title": "Minion Bob",
+      "price": 180
+    },
+    "mvampiro":{
+      "id": "4",
+      "title": "Minion Dracula",
+      "price": 230
+    },
+    "mbobp":{
+      "id": "5",
+      "title": "Minion Bob Pijama",
+      "price": 280
+    },
+    "mtom":{
+      "id": "6",
+      "title": "Minion Tom",
+      "price": 215
+    },
+    "mstuart":{
+      "id": "7",
+      "title": "Minion Stuart",
+      "price": 90
+    },
+    "motto":{
+      "id": "8",
+      "title": "Minion Otto",
+      "price": 100
+    },
+    "mjerry":{
+      "id": "9",
+      "title": "Minion Jerry",
+      "price": 120
+    },
+    "mdave":{
+      "id": "10",
+      "title": "Minion Dave",
+      "price": 70
+    },
+    "cbonecos":{
+      "id": "11",
+      "title": "Conjunto de bonecos",
+      "price": 60
+    },
+    "mkevinatirador":{
+      "id": "12",
+      "title": "Minion Kevin Atirador",
+      "price": 150
+    }
+}
